@@ -11,6 +11,7 @@
 // @updateURL    https://raw.githubusercontent.com/MrMugiwara/BLS-Spain-Autofill/main/bls-spain-autofill.js
 // ==/UserScript==
 
+
 // ### ------- Value lookup on the embassy page ------- ###
 // Depending on the country you're residing, some values
 // may change. You have to open up the embassy page of your
