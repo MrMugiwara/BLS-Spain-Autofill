@@ -14,4 +14,4 @@ Because it's hard to get an appointment :)
 
 ## Cheers :)
 
-Say Hi to me in instagram : [@heys0ufiane](https://www.instagram.com/heys0ufiane)
+Say Hi to me on instagram : [@heys0ufiane](https://www.instagram.com/heys0ufiane)
